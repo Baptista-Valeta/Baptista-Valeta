@@ -1,6 +1,6 @@
 ### Olá eu sou o Baptista Valeta 🖐️🖐️
 
-![Valeta GitHub stats](https://github-readme-stats.vercel.app/api?username=Baptista-Valeta&show_icons=true&theme=dracula)
+![Valeta GitHub stats](https://github-readme-stats.vercel.app/api?username=baptista-valeta&show_icons=true&theme=dracula)
 
 ## Tecnologias que eu uso
 
