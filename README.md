@@ -9,9 +9,10 @@
    <img alt="HTML5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
    <img alt="HTML5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
    <img alt="HTML5" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
 <br>
 
 🚀 Interessado no universo da programação e desenvolvimento de soluções inovadoras, com foco em aprender continuamente e transformar ideias em projetos reais.
 
-**Contacto:** baptistavaleta@gmail.com / gabryelvaleta@gmail.com
+**Contacto:** baptistavaleta@gmail.com /
